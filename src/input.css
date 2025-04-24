@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+
+@media only screen and (max-width: 600px) {
+    .img1{
+        width: 35px;
+
+    }
+
+
+}
